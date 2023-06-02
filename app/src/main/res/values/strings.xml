@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">The Guardian-Final</string>
+
+    <string name="search_item">Search</string>
+    <string name="details_item">Details</string>
+    <string name="favourite_item">Favourite</string>
+    <string name="settings_item">Settings</string>
+    <string name="language_item">Language</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="delete_selected">Delete Selected (%1$d)</string>
+    <string name="delete">Delete</string>
+    <string name="snackbar_message">Items deleted</string>
+    <string name="select_language">Select Language</string>
+    <string name="save">Save</string>
+    <string name="spinner_language_description">Choose language</string>
+    <string name="english">English</string>
+    <string name="french">Francais</string>
+    <string-array name="language_options">
+        <item>@string/english</item>
+        <item>@string/french</item>
+    </string-array>
+</resources>
